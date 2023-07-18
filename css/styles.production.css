@@ -33,11 +33,11 @@ p {
     font-weight:bold; 
     color: #e8e8e8;
 }
-p1{
+.p1{
     font-variant: small-caps;
     font-weight: bold;
     font-size: 30px;
-    line-height: 0;
+    line-height: 1.0;
     color:#e8e8e8;
     }
 form {
@@ -91,6 +91,7 @@ button:hover, button:focus{
     margin-left: 40px;
     border-radius: 50%;
   }
+
   .profile{
     max-width: 600px;
     margin: 0 auto;
