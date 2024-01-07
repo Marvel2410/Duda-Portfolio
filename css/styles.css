@@ -8,6 +8,9 @@
     --paragraphtext: 30px;
 }
 
+ul {
+    color: #FFFFFF;
+  }
 body {
     background-color: var(--aquateal);
     font-family: Marvel, sans-serif;
